@@ -8,6 +8,7 @@ Module=modTest; modTest.bas
 Module=modUtils; modUtils.bas
 Class=clsInterests; clsInterests.cls
 Class=clsNameValue; clsNameValue.cls
+IconForm="Form1"
 Startup="Form1"
 ExeName32="Project1.exe"
 Command32=""

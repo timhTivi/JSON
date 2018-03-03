@@ -21,6 +21,7 @@ Private mstrDelim As String
 Public Property Let Name(str As String)
     
     mstrName = str
+    'Here
     
 End Property
 
